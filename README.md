@@ -7,5 +7,5 @@ El script downloadCOCO.py permite descargar imágenes etiquetadas de los dataset
 
 
 
-https://colab.research.google.com/drive/176VhxxlNbgM_pbAI3EU_MrrYsrIyPGwb?usp=drive_link&pli=1&authuser=1
+https://colab.research.google.com/drive/176VhxxlNbgM_pbAI3EU_MrrYsrIyPGwb?usp=drive_link
 
