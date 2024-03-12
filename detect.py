@@ -5,6 +5,7 @@ torch
 torchvision
 pandas
 ultralytics
+requests
 '''
 
 
